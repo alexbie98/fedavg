@@ -4,3 +4,4 @@ checkpoints
 results
 logs
 __pycache__
+.vscode
